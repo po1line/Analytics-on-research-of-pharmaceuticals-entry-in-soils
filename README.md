@@ -9,7 +9,6 @@ The problem of contamination of the environment by pharmaceuticals and products 
 
 This analysis is a part of the systematic review "Influence of pharmaceuticals and personal care products’ occurrence on soil ecosystem functioning: traits, mechanisms and markers" prepared for the Environmental Science & Technology journal.
 
-This analysis is a part of the systematic review "Influence of pharmaceuticals and personal care products’ occurrence on soil ecosystem functioning: traits, mechanisms and markers" prepared for the Environmental Science & Technology journal.
 The approach with the provided code example and results can be used for further state-of-the-art analysis on the topic. 
 
 ## Problem statement
@@ -51,22 +50,19 @@ For the main part of analysis unique PPCPs were sorted according to the frequenc
 <br>
 
 ![plot](plots/pharmaceuticals_pc_whole_timeline_1_perc.png)
-=======
+
 
 ![plot](plots/published_papers.png)
 
-### Representation of therapeutic groups in soil research
 
-### The most frequently studied PPCP analytes
+### Recently (strting from 2017) published papers on the topic, drew most of the attention, provided for top-15 most studied PPCP analytes 
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
-### Recently (strting from 2017) published papers on the topic, drew most of the attention, provided for top-15 most studied PPCP analytes 
-
 
 ## Limitations
 * described PPCP can be related to the different groups of therapeutic usage within the same target group or between different target groups;
