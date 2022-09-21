@@ -58,7 +58,12 @@ For the main part of analysis unique PPCPs were sorted according to the frequenc
 ### Representation of therapeutic groups in soil research
 
 ### The most frequently studied PPCP analytes
->>>>>>> origin/main
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ### Recently (strting from 2017) published papers on the topic, drew most of the attention, provided for top-15 most studied PPCP analytes 
 
