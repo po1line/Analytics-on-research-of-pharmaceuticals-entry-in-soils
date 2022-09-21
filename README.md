@@ -6,11 +6,10 @@ Here is the analytics of the research dedicated to pharmaceuticals' impact on na
 
 The problem of contamination of the environment by pharmaceuticals and products of personal care and hygiene (PPCP) is globally well recognised nowadays, due to the raising emergence of antimicrobial resistance. The largest part of pharmaceuticals entering natural media affects water resources at first, so most of the research is focused on the effects accompanying the pollution of water ecosystems. Another serious aspect of this problem is the introduction of PPCP into soils -- the largest pool of the global biodiversity, one of the major regulators of the global carbon and nutrient cycle, and the source of natural pharmaceuticals. Research dedicated to soils is not so often comparing to water research, however, it is a valuable knowledge direction for a better understanding of shifts in the biosphere caused by different pollutants along with the development of regulatory actions required by the global urgency.
 
-<<<<<<< HEAD
+
 This analysis is a part of the systematic review "Influence of pharmaceuticals and personal care products’ occurrence on soil ecosystem functioning: traits, mechanisms and markers" prepared for the Environmental Science & Technology journal.
-=======
-This analysis is a part of the systematic review "Influence of pharmaceuticals and personal care products’ occurrence on soil ecosystem functioning: traits, mechanisms and markers" prepared for the Journal of the American Chemical Society.
->>>>>>> origin/main
+
+This analysis is a part of the systematic review "Influence of pharmaceuticals and personal care products’ occurrence on soil ecosystem functioning: traits, mechanisms and markers" prepared for the Environmental Science & Technology journal.
 The approach with the provided code example and results can be used for further state-of-the-art analysis on the topic. 
 
 ## Problem statement
@@ -31,7 +30,7 @@ The resulting sample kept ~30% of initial entries which is equal to 828 abstract
 For the main part of analysis unique PPCPs were sorted according to the frequency of their mentions in papers. List of PPCPs which were mentioned in the abstratcs of more than 10 papers were selected.
 
 ### Trends in pharmaceuticals-in-soils research
-<<<<<<< HEAD
+
 <br>
 <br>
 
