@@ -51,7 +51,7 @@ For the main part of analysis unique PPCPs were sorted according to the frequenc
 
 ![plot](plots/pharmaceuticals_pc_whole_timeline_1_perc.png)
 
-[Uptake and accumulation of emerging contaminants in soil and plant treated with wastewater under real-world environmental conditions in the Al Hayer area (Saudi Arabia)\](10.1016/j.scitotenv.2018.10.224) 
+[Uptake and accumulation of emerging contaminants in soil and plant treated with wastewater under real-world environmental conditions in the Al Hayer area (Saudi Arabia)\](https://doi.org/10.1016/j.scitotenv.2018.10.224) 
 
 
 
