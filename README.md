@@ -34,7 +34,7 @@ For the main part of analysis unique PPCPs were sorted according to the frequenc
 <br>
 
 <div align="center">
- <img src="plots/published_papers.png" alt="There is should be a plot with publishing dynamics">
+ <img src="result_plots/published_papers.png" alt="There is should be a plot with publishing dynamics">
  <br>
 </div>
 
@@ -43,13 +43,13 @@ For the main part of analysis unique PPCPs were sorted according to the frequenc
 <br>
 <br>
 
-![plot](plots/pie_plot.png)
+![plot](result_plots/pie_plot.png)
 
 ### The most frequently studied PPCP analytes starting from 2017
 <br>
 <br>
 
-![plot](plots/pharmaceuticals_pc_whole_timeline_1_perc.png)
+![plot](result_plots/pharmaceuticals_pc_whole_timeline_1_perc.png)
 
 
 
