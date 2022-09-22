@@ -23,6 +23,11 @@ The analytics answers the following questions:
 
 The analysis is made on the openly distributed data relevant to the topic. The core information source is the sample of peer-reviewed scientific papers, selected by the keywords ``soil`` and ``pharmaceuticals`` occurred in titles and abstracts. The information on these publications, including titles and abstracts texts, were obtained from the Dimensions scientific database https://www.dimensions.ai for years from 2000 to 2020 (attached in the ``data`` folder), consisting of 2951 entries. To answer the questions above, the abstract texts were compared with entries from the database of Pharmaceuticals in the environment https://www.umweltbundesamt.de/en/database-pharmaceuticals-in-the-environment-0 of German Environment Agency -- Umwelt Bundesamt (UBA). After the exclusion of papers without mentions of PPCP from the UBA list in the abstract and manual cleaning of papers describing irrelevant environmental matrix 828 abstract entries were used for the final analysis.
 
+## Google Colab
+
+
+<a href="https://colab.research.google.com/github/po1line/Analytics-on-research-of-pharmaceuticals-entry-in-soils/blob/master/PPCP_soil_papers_2000-2022.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Results
 
 The resulting sample kept ~30% of initial entries which is equal to 828 abstracts contains mentiones of 337 unique PPCPs.
