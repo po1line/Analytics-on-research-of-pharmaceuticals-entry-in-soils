@@ -4,10 +4,10 @@
 
 Here is the analytics of the research dedicated to pharmaceuticals' impact on natural environments with a focus on soils.
 
-The problem of contamination of the environment by pharmaceuticals and products of personal care and hygiene (PPCP) is globally well recognised nowadays, due to the raising emergence of antimicrobial resistance. The largest part of pharmaceuticals entering natural media affects water resources at first, so most of the research is focused on the effects accompanying the pollution of water ecosystems. Another serious aspect of this problem is the introduction of PPCP into soils -- the largest pool of the global biodiversity, one of the major regulators of the global carbon and nutrient cycle, and the source of natural pharmaceuticals. Research dedicated to soils is not so often compared to water research, however, it is a valuable knowledge direction for a better understanding of shifts in the biosphere caused by different pollutants along with the development of regulatory actions required by the global urgency.
+The problem of contamination of the environment by pharmaceuticals and products of personal care and hygiene (PPCP) is globally well recognised nowadays due to the rising emergence of antimicrobial resistance. The largest part of pharmaceuticals entering natural media affects water resources at first, so most of the research is focused on the effects accompanying the pollution of water ecosystems. Another serious aspect of this problem is the introduction of PPCP into soils -- the largest pool of the global biodiversity, one of the major regulators of the global carbon and nutrient cycle, and the source of natural pharmaceuticals. Research dedicated to soils is not so often compared to water research. However, it is a valuable knowledge direction for a better understanding of shifts in the biosphere caused by different pollutants along with the development of regulatory actions required by global urgency.
 
 
-This analysis is a part of the systematic review "Influence of pharmaceuticals and personal care products’ occurrence on soil ecosystem functioning: traits, mechanisms and markers" prepared for the Environmental Science and Pollution Research journal.
+This analysis is a part of the systematic review "Pharmaceuticals and personal care products reshaping soil ecosystem functioning" prepared for the Environmental Science and Pollution Research journal.
 
 The approach with the provided code example and results can be used for further state-of-the-art analysis on the topic. 
 
